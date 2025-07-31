@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="vagabond banniere.jpeg width="100%" />
+  <img src="vagabond banniere.jpeg />
 </p>
 
 ---
