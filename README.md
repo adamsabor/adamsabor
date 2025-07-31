@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file:///Users/saboradam/Downloads/vagabond%20banniere%20(1).jpeg" />
+  <img src="https://raw.githubusercontent.com/adamsabor/adamsabor/refs/heads/main/vagabond%20banniere.jpeg" />
 </p>
 
 ---
