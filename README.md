@@ -35,6 +35,6 @@ Not here to flash. Here to construct.
 ### 📫 Contact
 
 - 📧 saboradam5@gmail.com  
-- 🔗 [LinkedIn][(https://linkedin.com/in/ton-lien](https://www.linkedin.com/in/sabor-adam-138a23241/))
+- 🔗 [LinkedIn][(https://linkedin.com/in/ton-lien]([https://www.linkedin.com/in/sabor-adam-138a23241/](https://www.linkedin.com/in/sabor-adam-138a23241/)
 
 ---
