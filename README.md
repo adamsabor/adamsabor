@@ -7,28 +7,6 @@
 > _Trust the process_
 
 
----
-
-### 🕶️ About
-
-Developer in continuous build-mode.  
-Focused on automation, AI workflows, and creative tools.  
-Not here to flash. Here to construct.
-
----
-
-### 🔧 Tech stack
-
-- Python / Django  
-- JavaScript / React / Vue  
-- Automatisations 
-
----
-
-### 📂 Showcase
-
-- Creative tools | AI hacks | Workflow prototypes  
-- Academic projects moved to the repo `bts-sio-projects`
 
 ---
 
